@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with MERN Stack and React Native
 - 👯 I’m looking to collaborate on Full stack web development
-- 💬 Ask me about Frontend Technologies
+- 💬 <a href="mailto:alex.yatseiko@gmail.com">Ask me about Frontend Technologies</a>
 - 😄 Pronouns: He/Him
 - 🙏 Please <a href="https://savelife.in.ua/en/donate-en/">support Ukraine 🇺🇦</a>
 
